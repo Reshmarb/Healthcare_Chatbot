@@ -1,0 +1,29 @@
+# Core Libraries
+numpy
+pandas
+scipy
+
+# Machine Learning & Deep Learning
+torch
+torchvision
+transformers
+scikit-learn
+ultralytics
+
+# Image Processing
+pillow
+opencv-python
+
+# NLP
+spacy
+
+# Visualization
+matplotlib
+
+# Gradio & Audio
+gradio
+gtts
+
+# API Integration
+groq
+requests
