@@ -1,0 +1,797 @@
+2025-01-07 09:17:46,568 - __main__ - INFO - Processing input...
+2025-01-07 09:17:46,568 - __main__ - INFO - Processing text input...
+2025-01-07 09:17:47,245 - __main__ - INFO - Text processed successfully.
+2025-01-07 09:17:47,250 - __main__ - DEBUG - LLM reply: Hello. I'm Dr. HealthBuddy, your virtual doctor assistant. I'm here to help answer your health-related questions and provide information on a wide range of topics. How can I assist you today? Are you feeling unwell or have a specific concern you'd like to discuss?
+2025-01-07 09:18:09,271 - __main__ - INFO - Processing input...
+2025-01-07 09:18:09,271 - __main__ - INFO - Processing text input...
+2025-01-07 09:18:09,970 - __main__ - INFO - Text processed successfully.
+2025-01-07 09:18:09,970 - __main__ - DEBUG - LLM reply: Sorry to hear that you're not feeling well. A fever can be caused by a variety of factors, including viral or bacterial infections, inflammation, or even exposure to heat.
+
+Can you tell me more about your symptoms? 
+
+* What is the temperature of your fever (if you have a thermometer)?
+* How long have you been experiencing the fever?
+* Are there any other symptoms you're experiencing, such as a sore throat, cough, or headach?
+* Have you traveled recently or been exposed to anyone who's sick?
+
+This information will help me provide you with a more accurate assessment and recommendations for alleviating your symptoms.
+2025-01-07 10:45:09,067 - __main__ - INFO - User submitted a query.
+2025-01-07 10:45:09,070 - __main__ - INFO - Processing input...
+2025-01-07 10:45:09,071 - __main__ - INFO - Processing text input...
+2025-01-07 10:45:09,633 - __main__ - ERROR - Error in customLLMBot function: Error code: 400 - {'error': {'message': "'messages.1' : value must be an object with the discriminator property: 'role'", 'type': 'invalid_request_error'}}
+2025-01-07 10:46:20,202 - __main__ - INFO - User submitted a query.
+2025-01-07 10:46:20,203 - __main__ - INFO - Processing input...
+2025-01-07 10:46:20,203 - __main__ - INFO - Processing text input...
+2025-01-07 10:46:20,685 - __main__ - ERROR - Error in customLLMBot function: Error code: 400 - {'error': {'message': "'messages.1' : value must be an object with the discriminator property: 'role'", 'type': 'invalid_request_error'}}
+2025-01-07 10:50:13,986 - __main__ - INFO - User submitted a query.
+2025-01-07 10:50:13,989 - __main__ - INFO - Processing input...
+2025-01-07 10:50:13,990 - __main__ - INFO - Processing text input...
+2025-01-07 10:50:14,706 - __main__ - INFO - Text processed successfully.
+2025-01-07 10:50:14,707 - __main__ - DEBUG - LLM reply: Hello! I'm Dr. HealthBuddy, your virtual healthcare assistant. What brings you to our conversation today? Are you experiencing any health concerns or have questions you'd like to discuss? I'm here to provide you with accurate and helpful information to support your well-being.
+2025-01-07 10:50:16,796 - __main__ - INFO - Audio response saved as response_6b8f17e739754d1d9801218ebf3a61ec.mp3
+2025-01-07 10:50:24,950 - __main__ - INFO - User submitted a query.
+2025-01-07 10:50:24,950 - __main__ - INFO - Processing input...
+2025-01-07 10:50:24,951 - __main__ - INFO - Processing text input...
+2025-01-07 10:50:26,186 - __main__ - INFO - Text processed successfully.
+2025-01-07 10:50:26,186 - __main__ - DEBUG - LLM reply: Hello! I'm glad you reached out for information.
+
+Coronavirus, also known as COVID-19, is a highly contagious respiratory illness caused by a new strain of coronavirus. Coronaviruses are a large family of viruses that can cause a range of illnesses, from mild to severe. The World Health Organization (WHO) declared COVID-19 a global pandemic, which means it's an infectious disease that has spread across multiple countries and continents.
+
+Here are some essential facts about COVID-19:
+
+- COVID-19 is primarily spread through respiratory droplets when an infected person talks, coughs, or sneezes.
+- Symptoms can range from mild (such as a runny nose or a sore throat) to severe (like pneumonia or difficulty breathing).
+- At-risk groups for severe illness include older adults (65+), young children (under 2), and people with compromised immune systems.
+- Early symptoms include fever, cough, fatigue, and shortness of breath. In severe cases, a high fever, chest pain, and difficulty breathing can occur.
+
+**Important**:
+
+While some people can become severely ill from COVID-19, it's not a certainty. The impact of COVID-19 continues to be studied and updated. If you develop symptoms, consult a healthcare professional for proper evaluation and advice.
+
+To minimize risks:
+
+- Wash your hands frequently with soap and water for at least 20 seconds.
+- Use hand sanitizer regularly.
+- Avoid close proximity to anyone showing symptoms of COVID-19.
+- Maintain proper hygiene practices (e.g., avoid touching your eyes, nose, and mouth).
+- Follow the guidelines set by your local health authorities.
+
+**When to seek immediate medical attention**:
+
+- Shortness of breath or difficulty breathing.
+- Chest pain or pressure.
+- Coughing up blood or yellow or green mucus.
+- Fever above 103°F (39.4°C).
+- Confusion, disorientation, or loss of speech.
+
+**Please consult a healthcare provider if you:**
+
+- Have come into contact with someone who has tested positive for COVID-19.
+- Are experiencing symptoms.
+- Have traveled to an area with COVID-19 outbreaks.
+
+You, or anyone in your community, deserve reliable and trustworthy health information. Always consult a healthcare professional for further guidance and personalized advice.
+
+Stay informed, stay safe, and prioritize your well-being!
+2025-01-07 10:50:45,789 - __main__ - INFO - Audio response saved as response_4351ea8bd3ed496bad3b83e6c4de7c41.mp3
+2025-01-07 10:50:58,716 - __main__ - INFO - User submitted a query.
+2025-01-07 10:50:58,718 - __main__ - INFO - Processing input...
+2025-01-07 10:50:58,719 - __main__ - INFO - Processing text input...
+2025-01-07 10:50:59,959 - __main__ - INFO - Text processed successfully.
+2025-01-07 10:50:59,960 - __main__ - DEBUG - LLM reply: Hello! I'm glad you're taking the initiative to learn about COVID-19, also known as the Corona virus. It's a viral respiratory infection caused by the SARS-CoV-2 virus.
+
+**Understanding COVID-19:**
+COVID-19 is a contagious disease that spreads through the air, primarily by respiratory droplets when an infected person speaks, coughs, or sneezes. These droplets can land in the mouths or noses of people nearby or be inhaled into the lungs. Less commonly, a person can get COVID-19 by touching a surface or object that has the virus and then touching their mouth, nose, or eyes.
+
+**Prevention Methods:**
+
+According to the World Health Organization (WHO) and Centers for Disease Control and Prevention (CDC), here are some effective ways to prevent COVID-19:
+
+1. **Get vaccinated**: COVID-19 vaccines are highly effective in preventing severe illness, hospitalization, and death.
+2. **Wear a mask correctly**: Wear a mask that covers your nose and mouth when you're in crowded places, public transportation, or around people who may be sick.
+3. **Maintain physical distance**: Stay at least 6 feet (2 meters) away from others, especially those who are sick or in crowded areas.
+4. **Wash your hands**: Wash your hands frequently with soap and water for at least 20 seconds, especially after shaking hands with someone, using public transportation, or before eating.
+5. **Practice good hygiene**:
+	* Avoid touching your eyes, nose, or mouth.
+	* Cough or sneeze into a tissue or your elbow, then wash your hands.
+	* Clean and disinfect high-touch surfaces and objects regularly.
+6. **Stay home when sick**: If you're experiencing COVID-19 symptoms, stay home from work or school and avoid contact with others until you're no longer contagious.
+7. **Boost your immunity**:
+	* Eat a balanced diet rich in fruits, vegetables, and whole grains.
+	* Stay hydrated by drinking plenty of water.
+	* Get enough sleep (7-8 hours for adults).
+
+**Important reminder:**
+
+COVID-19 is a serious disease, but it's preventable with the right precautions. Always follow local health guidelines, stay informed, and consult with a healthcare professional if you have any concerns.
+
+It's essential to note that I'm not a substitute for professional medical advice. If you have any specific questions or concerns, please visit a healthcare provider or a trusted medical website for guidance.
+2025-01-07 10:51:20,997 - __main__ - INFO - Audio response saved as response_3f11010141764a278aa7692ac3540491.mp3
+2025-01-07 10:56:23,440 - __main__ - INFO - User submitted a query.
+2025-01-07 10:56:23,442 - __main__ - INFO - Processing input...
+2025-01-07 10:56:23,443 - __main__ - INFO - Processing text input...
+2025-01-07 10:56:24,154 - __main__ - INFO - Text processed successfully.
+2025-01-07 10:56:24,154 - __main__ - DEBUG - LLM reply: Hello! It's nice to support you in your health journey. How can I assist you today? Do you have a specific health concern, symptom, or question that I can help you with? Please feel free to share, and I'll do my best to provide you with a clear and helpful response.
+2025-01-07 10:56:27,015 - __main__ - INFO - Audio response saved as response_978cacd2d0334ee09e8c04c9c4a361fd.mp3
+2025-01-07 14:44:06,266 - __main__ - INFO - User submitted a query.
+2025-01-07 14:44:06,268 - __main__ - INFO - Processing input...
+2025-01-07 14:44:06,271 - __main__ - INFO - Processing text input...
+2025-01-07 14:44:07,022 - __main__ - INFO - Text processed successfully.
+2025-01-07 14:44:07,023 - __main__ - DEBUG - LLM reply: Hello! It seems like you might have something on your mind, perhaps a health concern or question. I'm here to help. If you're feeling well today, that's wonderful! If not, please know that this is a judgment-free space where I can provide you with information and guidance. What's been going on?
+2025-01-07 14:44:09,464 - __main__ - INFO - Audio response saved as response_e11875c8d33542358dd4ce6595993aea.mp3
+2025-01-07 14:44:18,634 - __main__ - INFO - User submitted a query.
+2025-01-07 14:44:18,638 - __main__ - INFO - Processing input...
+2025-01-07 14:44:18,638 - __main__ - DEBUG - Encoding image...
+2025-01-07 14:44:18,652 - __main__ - DEBUG - Image encoding complete.
+2025-01-07 14:44:18,652 - __main__ - DEBUG - Image received, size: 62648 bytes
+2025-01-07 14:44:18,664 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-07 14:44:19,894 - __main__ - INFO - Image processed successfully.
+2025-01-07 14:44:19,894 - __main__ - DEBUG - LLM reply: **Image Description**
+
+* The image shows a pack of Paracetamol tablets, which are prescribed for various health conditions.
+* Specifically, the tablets are labeled for:
+	+ Pain relief
+	+ Fever reduction
+	+ Treatment of headaches
+2025-01-07 14:44:22,336 - __main__ - INFO - Audio response saved as response_78d3453857274ff789fbd15a84e1e344.mp3
+2025-01-07 14:44:33,709 - __main__ - INFO - User submitted a query.
+2025-01-07 14:44:33,712 - __main__ - INFO - Processing input...
+2025-01-07 14:44:33,712 - __main__ - INFO - Processing text input...
+2025-01-07 14:44:34,190 - __main__ - ERROR - Error in customLLMBot function: Error code: 400 - {'error': {'message': "'messages.2' : discriminator property 'role' has invalid value", 'type': 'invalid_request_error'}}
+2025-01-07 14:45:41,197 - __main__ - INFO - User submitted a query.
+2025-01-07 14:45:41,203 - __main__ - INFO - Processing input...
+2025-01-07 14:45:41,205 - __main__ - DEBUG - Encoding image...
+2025-01-07 14:45:41,215 - __main__ - DEBUG - Image encoding complete.
+2025-01-07 14:45:41,217 - __main__ - DEBUG - Image received, size: 62648 bytes
+2025-01-07 14:45:41,217 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-07 14:45:42,559 - __main__ - INFO - Image processed successfully.
+2025-01-07 14:45:42,559 - __main__ - DEBUG - LLM reply: The image depicts a box of Paracetamol tablets, specifically a 500mg dosage. The box is predominantly beige with blue accents, featuring the brand name "Paracetamol" and the dosage information "IP 500 mg" in black text. A blue arrow points to the tablet's information, indicating that it is a Paracetameter-500 product. The box is set against a white background, providing a clean and neutral contrast.
+2025-01-07 14:45:45,653 - __main__ - INFO - Audio response saved as response_bcbccadd97ac45c299382f860129ece5.mp3
+2025-01-07 14:45:55,986 - __main__ - INFO - User submitted a query.
+2025-01-07 14:45:55,987 - __main__ - INFO - Processing input...
+2025-01-07 14:45:55,989 - __main__ - INFO - Processing text input...
+2025-01-07 14:45:56,700 - __main__ - INFO - Text processed successfully.
+2025-01-07 14:45:56,702 - __main__ - DEBUG - LLM reply: I can't answer that. If you are considering using Paracetamol for your health concerns, I can provide you with general information about its benefits. However, please consult a healthcare professional for personalized advice and treatment. Would you like information on the general use and benefits of Paracetamol, such as its analgesic and antipyretic properties?
+2025-01-07 14:45:59,054 - __main__ - INFO - Audio response saved as response_91eae2528896422e80164af1e38a1887.mp3
+2025-01-07 14:46:21,578 - __main__ - INFO - User submitted a query.
+2025-01-07 14:46:21,578 - __main__ - INFO - Processing input...
+2025-01-07 14:46:21,580 - __main__ - INFO - Processing text input...
+2025-01-07 14:46:22,605 - __main__ - INFO - Text processed successfully.
+2025-01-07 14:46:22,605 - __main__ - DEBUG - LLM reply: Paracetamol can be effective in reducing fever and relieving associated headaches and body aches. However, it's essential to use it according to the recommended dosage and guidelines.
+
+**General Tips:**
+
+- Consult a healthcare professional or the medication's label for the correct dosage, usually 500-1000mg every 4-6 hours.
+- Paracetamol is typically recommended for adults and children over 3 years of age.
+- It's crucial to avoid exceeding the recommended dose, as this can cause liver damage.
+
+**When to Use Paracetamol for Fever:**
+
+- For adults and children over 3 years old with mild to moderate fever (38-40°C or 100.4-104°F).
+- If the fever is accompanied by headaches, body aches, or general discomfort.
+
+**When to Seek Medical Attention:**
+
+- If the fever exceeds 40°C (104°F) or lasts for an extended period.
+- If you experience severe headaches, stiff neck, or confusion.
+- If you're taking other medications, such as blood thinners, and have concerns about interactions.
+
+**Additional Tips:**
+
+- Stay hydrated by drinking plenty of fluids.
+- Rest and engage in relaxation techniques to help your body recover.
+
+Please keep in mind that Paracetamol is not suitable for everyone, especially those with a history of liver conditions, chronic kidney disease, or other underlying health issues. Always consult a healthcare professional for personalized advice on managing fever and other health concerns.
+2025-01-07 14:46:34,622 - __main__ - INFO - Audio response saved as response_974b14a306e743f4bcde0208415ec456.mp3
+2025-01-07 15:04:01,693 - __main__ - INFO - User submitted a query.
+2025-01-07 15:04:01,696 - __main__ - INFO - Processing input...
+2025-01-07 15:04:01,700 - __main__ - INFO - Processing text input...
+2025-01-07 15:04:02,465 - __main__ - INFO - Text processed successfully.
+2025-01-07 15:04:02,466 - __main__ - DEBUG - LLM reply: Hello! How are you feeling today? Is there something on your mind that you'd like to discuss or a health concern you'd like some insight into? I'm here to listen and provide helpful information to the best of my abilities. Please feel free to share what's on your mind, and I'll do my best to provide a supportive and knowledgeable response.
+2025-01-07 15:04:04,649 - __main__ - INFO - Audio response saved as response_a5f9a64f4bb44690a051f28b965d58aa.mp3
+2025-01-07 15:06:21,666 - __main__ - INFO - User submitted a query.
+2025-01-07 15:06:21,668 - __main__ - INFO - Processing input...
+2025-01-07 15:06:21,669 - __main__ - INFO - Processing text input...
+2025-01-07 15:06:22,401 - __main__ - INFO - Text processed successfully.
+2025-01-07 15:06:22,401 - __main__ - DEBUG - LLM reply: Hello! I'm Dr. HealthBuddy, here to help you with any health-related concerns you may have. How can I assist you today? Do you have a specific question or issue you'd like to discuss? Please share, and I'll do my best to provide you with clear and concise guidance.
+2025-01-07 15:06:24,451 - __main__ - INFO - Audio response saved as response_1c4925d94f3c4c5299fd338a23158c88.mp3
+2025-01-07 15:06:46,089 - __main__ - INFO - User submitted a query.
+2025-01-07 15:06:46,091 - __main__ - INFO - Processing input...
+2025-01-07 15:06:46,092 - __main__ - INFO - Processing text input...
+2025-01-07 15:06:46,706 - __main__ - INFO - Text processed successfully.
+2025-01-07 15:06:46,707 - __main__ - DEBUG - LLM reply: It's nice to connect with you. How are you feeling today? Is there something on your mind that you'd like to talk about or get some advice on? I'm all ears (or rather, all text)!
+2025-01-07 15:06:48,548 - __main__ - INFO - Audio response saved as response_0dd0ae6e7b4d4060b416a1d7c1fd3181.mp3
+2025-01-12 21:44:12,601 - __main__ - ERROR - Error loading the model: Model provided has model identifier 'ion ', should be 'TFL3'
+
+2025-01-12 21:48:13,415 - __main__ - ERROR - Error loading the model: Model provided has model identifier 'ion ', should be 'TFL3'
+
+2025-01-13 07:58:27,168 - __main__ - INFO - User submitted a query.
+2025-01-13 07:58:27,170 - __main__ - INFO - Processing input...
+2025-01-13 07:58:27,170 - __main__ - INFO - Processing text input...
+2025-01-13 07:58:28,854 - __main__ - INFO - Text processed successfully.
+2025-01-13 07:58:28,854 - __main__ - DEBUG - LLM reply: Hello there. Welcome to our virtual health facility. I'm Dr. HealthBuddy, your friendly and knowledgeable doctor chatbot. I'm here to provide you with personalized health advice, answer any questions you may have, and help you navigate your health concerns. Please feel free to ask me anything.
+
+Before we begin, may I ask, how can I assist you today? Do you have a specific health concern or question in mind, or are you looking for general health guidance?
+2025-01-13 07:58:33,771 - __main__ - INFO - Audio response saved as response_d38c10d10f2145e2a77b0f56a3f58b85.mp3
+2025-01-13 07:59:45,675 - __main__ - INFO - User submitted a query.
+2025-01-13 07:59:45,675 - __main__ - INFO - Processing input...
+2025-01-13 07:59:45,680 - __main__ - ERROR - Error in customLLMBot function: 'State' object has no attribute 'append'
+2025-01-13 08:16:19,051 - __main__ - INFO - User submitted a query.
+2025-01-13 08:16:19,055 - __main__ - INFO - Processing input...
+2025-01-13 08:16:19,055 - __main__ - INFO - Processing text input...
+2025-01-13 08:16:20,756 - __main__ - INFO - Text processed successfully.
+2025-01-13 08:16:20,756 - __main__ - DEBUG - LLM reply: Hello! Welcome to my virtual clinic. I'm Dr. HealthBuddy, here to help you with any health-related questions or concerns you may have. How can I assist you today? Do you have a specific issue you'd like to discuss or would you like some general health advice?
+2025-01-13 08:16:27,728 - __main__ - INFO - Audio response saved as response_3c03f281136449a5b49f1fbb01d3f2bd.mp3
+2025-01-13 08:16:36,608 - __main__ - INFO - User submitted a query.
+2025-01-13 08:16:36,608 - __main__ - INFO - Processing input...
+2025-01-13 08:16:36,608 - __main__ - ERROR - Error in customLLMBot function: 'State' object has no attribute 'append'
+2025-01-13 09:15:07,201 - __main__ - INFO - User submitted a query.
+2025-01-13 09:15:07,205 - __main__ - INFO - Processing input...
+2025-01-13 09:15:07,207 - __main__ - DEBUG - Encoding image...
+2025-01-13 09:15:07,223 - __main__ - DEBUG - Image encoding complete.
+2025-01-13 09:15:07,223 - __main__ - DEBUG - Image received, size: 79188 bytes
+2025-01-13 09:15:07,226 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-13 09:15:08,531 - __main__ - INFO - Image processed successfully.
+2025-01-13 09:15:08,531 - __main__ - DEBUG - LLM reply: The image appears to be of a dog. The dog is medium-sized and appears to be a mix between a Labrador and a Golden Retriever, based on its thick, light golden coat with white markings around its nose and mouth. The dog also has dark brown patches on its back. It has floppy ears that are mostly light-colored with darker markings. It has black, slightly crookeded teeth and appears to have a black nose with white fur around it. The dog's mouth is slightly open, and its gaze is directed to the left side of the image where other potential subjects are not visible.
+2025-01-13 09:15:12,135 - __main__ - INFO - Audio response saved as response_0e2e524ffda74001897396896da01d9d.mp3
+2025-01-13 09:15:47,705 - __main__ - INFO - User submitted a query.
+2025-01-13 09:15:47,705 - __main__ - INFO - Processing input...
+2025-01-13 09:15:47,705 - __main__ - INFO - Processing text input...
+2025-01-13 09:15:48,387 - __main__ - INFO - Text processed successfully.
+2025-01-13 09:15:48,387 - __main__ - DEBUG - LLM reply: Hello. It's nice to connect with you. Is there something specific on your mind, or are you experiencing any health concerns you'd like to discuss? I'm here to listen and provide guidance to the best of my abilities. Please feel free to share, and I'll do my best to offer you helpful information and support.
+2025-01-13 09:15:50,825 - __main__ - INFO - Audio response saved as response_e6ef351db33b4c3c93a6a06b7032c0c2.mp3
+2025-01-13 09:48:19,915 - __main__ - INFO - User submitted a query.
+2025-01-13 09:48:19,917 - __main__ - INFO - Processing input...
+2025-01-13 09:48:19,917 - __main__ - INFO - Processing text input...
+2025-01-13 09:48:20,746 - __main__ - INFO - Text processed successfully.
+2025-01-13 09:48:20,749 - __main__ - DEBUG - LLM reply: Hello! It's great to virtually meet you. Welcome to our conversation. I'm Dr. HealthBuddy, your knowledgeable and caring virtual health assistant. I'm here to provide you with accurate and reassuring information on your health concerns.
+
+What seems to be the main reason for your visit today? Do you have a specific question or issue you'd like to discuss? I'm all ears (or rather, all text) and ready to help. Please feel free to share as much or as little as you'd like, and I'll do my best to assist you.
+2025-01-13 09:48:25,008 - __main__ - INFO - Audio response saved as response_5503c338cb4846a4a82616e38b398df8.mp3
+2025-01-13 10:03:09,233 - __main__ - INFO - User submitted a query.
+2025-01-13 10:03:09,235 - __main__ - INFO - Processing input...
+2025-01-13 10:03:09,238 - __main__ - DEBUG - Encoding image...
+2025-01-13 10:03:09,264 - __main__ - DEBUG - Image encoding complete.
+2025-01-13 10:03:09,266 - __main__ - DEBUG - Image received, size: 105700 bytes
+2025-01-13 10:03:09,266 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-13 10:03:12,713 - __main__ - INFO - Image processed successfully.
+2025-01-13 10:03:12,714 - __main__ - DEBUG - LLM reply: The image depicts a dog with a large, red wound on its back, situated near the base of its neck. The wound appears to be open and has a rough, scabbed-over texture. The dog's fur around the wound is matted and discolored, indicating that the wound may have been present for some time.
+
+The dog's ears are perked up and alert, and its eyes are cast downward, possibly indicating discomfort or pain. The background of the image is out of focus, but it appears to be a room with white walls and a blue rug or blanket.
+
+Overall, the image suggests that the dog may have suffered an injury or accident, and it is now in need of medical attention. The wound's size and location on the dog's back, near its spine, could indicate that it may be painful or sensitive to touch. It is important for dog owners to provide their pets with proper care and treatment if they notice signs of injury or illness.
+2025-01-13 10:03:20,325 - __main__ - INFO - Audio response saved as response_7c500f98d94045f883d28e4a9ac856d1.mp3
+2025-01-13 10:41:06,020 - __main__ - ERROR - Error during prediction: name 'interpreter' is not defined
+2025-01-13 10:42:16,993 - __main__ - ERROR - Error during prediction: name 'interpreter' is not defined
+2025-01-13 11:33:10,941 - __main__ - ERROR - Error during prediction: name 'interpreter' is not defined
+2025-01-13 13:49:33,293 - __main__ - ERROR - Error during prediction: name 'interpreter' is not defined
+2025-01-13 13:53:40,552 - __main__ - ERROR - Error during prediction: Model provided has model identifier 'ion ', should be 'TFL3'
+
+2025-01-13 14:55:45,684 - __main__ - INFO - User submitted a query.
+2025-01-13 14:55:45,684 - __main__ - INFO - Processing input...
+2025-01-13 14:55:45,994 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-13 14:55:46,056 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 14:55:46,056 - __main__ - INFO - Processing text input...
+2025-01-13 14:55:46,776 - __main__ - INFO - Text processed successfully.
+2025-01-13 14:55:46,776 - __main__ - DEBUG - LLM reply: Hello! It's nice to meet you. I'm Dr. HealthBuddy, here to help with any health-related questions or concerns you may have. How can I assist you today? Are you experiencing any symptoms, or would you like some general health advice or information? Take your time, and I'll do my best to help.
+2025-01-13 14:55:49,689 - __main__ - INFO - Audio response saved as response_02ace4efe16d49b0891dc57560c3076d.mp3
+2025-01-13 14:57:13,793 - __main__ - INFO - User submitted a query.
+2025-01-13 14:57:13,796 - __main__ - INFO - Processing input...
+2025-01-13 14:57:13,913 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-13 14:57:13,923 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 14:57:13,926 - __main__ - INFO - Processing text input...
+2025-01-13 14:57:14,620 - __main__ - INFO - Text processed successfully.
+2025-01-13 14:57:14,622 - __main__ - DEBUG - LLM reply: I'm here to support you. "Not feeling good" can be quite a general description. Can you tell me more about what you're experiencing? For example, are you feeling:
+
+- Fatigued or tired?
+- Have a headache or body aches?
+- Feeling nauseous or queasy?
+- Having trouble sleeping?
+- Experience any chest pain or difficulty breathing?
+- Or is it something else?
+
+Sharing more details about your symptoms will help me provide a more accurate and helpful response.
+2025-01-13 14:57:18,508 - __main__ - INFO - Audio response saved as response_f7293a575f414ad99c4a0711d8b21bf0.mp3
+2025-01-13 15:17:35,292 - __main__ - INFO - User submitted a query.
+2025-01-13 15:17:35,324 - __main__ - INFO - Processing input...
+2025-01-13 15:17:35,689 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-13 15:17:35,931 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 15:17:35,931 - __main__ - INFO - Processing text input...
+2025-01-13 15:17:36,879 - __main__ - INFO - Text processed successfully.
+2025-01-13 15:17:36,882 - __main__ - DEBUG - LLM reply: Dizziness can be a concerning symptom. There are many possible causes of dizziness, ranging from minor issues to more serious conditions. Can you please tell me a bit more about your dizziness?
+
+- Is your dizziness sudden or does it come and go?
+- Do you feel like the room is spinning, or is it more of a lightheaded feeling?
+- Do you experience dizziness when you stand up quickly, or is it constant throughout the day?
+- Have you been experiencing any other symptoms such as headaches, nausea, or vomiting?
+- Have you recently experienced any head trauma or injuries?
+
+It's essential to seek medical attention if you're experiencing:
+
+- Sudden, severe dizziness
+- Dizziness that's accompanied by numbness, weakness, or loss of vision in any limb
+- Dizziness that's making it difficult to perform daily activities or putting you at risk of injury
+- Vomiting or persistent nausea
+
+However, if your dizziness is mild and doesn't seem to be related to another condition, we can try to explore some potential causes and symptoms together.
+
+Also, have you been dehydrated recently? Sometimes, dehydration can cause dizziness. Are you drinking enough water?
+2025-01-13 15:17:47,085 - __main__ - INFO - Audio response saved as response_2a0620433cf747d3a1d87b803e564918.mp3
+2025-01-13 15:28:32,076 - __main__ - INFO - User submitted a query.
+2025-01-13 15:28:32,084 - __main__ - INFO - Processing input...
+2025-01-13 15:28:32,232 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-13 15:28:32,252 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 15:28:32,255 - __main__ - DEBUG - Encoding image...
+2025-01-13 15:28:32,609 - __main__ - DEBUG - Image encoding complete.
+2025-01-13 15:28:32,619 - __main__ - DEBUG - Image received, size: 1146436 bytes
+2025-01-13 15:28:32,620 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-13 15:28:35,673 - __main__ - INFO - Image processed successfully.
+2025-01-13 15:28:35,674 - __main__ - DEBUG - LLM reply: This image appears to be an illustration of a webpage or blog post related to the care, feeding, and wellbeing of dogs. Various dog breeds, photos of puppy play, and a photo of a small dog in a wedding gown wearing a veil are shown in the layout. The background is peach, and images of dogs are layered on top, with each photo fading into the next one and becoming less visible. A photo of puppies romping in a field is the most visually prominent image, situated on the extreme right-hand side of the image.
+
+**Key Elements:**
+
+* **Diverse Dog Breeds:** The image showcases various dog breeds, including a mix of large and small dogs.
+* **Playful Puppies:** Pictures of playful puppy play in a field of grass add a sense of joy and energy to the layout.
+* **Wedding Attire:** A dog wearing a wedding dress and veil is a unique and attention-grabbing element.
+* **Fading Images:** Each photo fades into the next, creating a layered effect that adds depth to the design.
+* **Background:** The peach background provides a subtle contrast to the images of dogs.
+
+**Overall:** The image effectively conveys a sense of playfulness, joy, and celebration, making it an engaging and attention-grabbing visual element for a webpage or blog post about dog care and wellbeing.
+2025-01-13 15:28:46,614 - __main__ - INFO - Audio response saved as response_c61665c3a9254cc298dbb33bb9ff6eb7.mp3
+2025-01-13 15:29:02,216 - __main__ - INFO - User submitted a query.
+2025-01-13 15:29:02,217 - __main__ - INFO - Processing input...
+2025-01-13 15:29:02,343 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-13 15:29:02,539 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 15:29:02,539 - __main__ - INFO - Processing text input...
+2025-01-13 15:29:03,218 - __main__ - INFO - Text processed successfully.
+2025-01-13 15:29:03,218 - __main__ - DEBUG - LLM reply: Hello again! I see we were discussing your dizziness earlier. How are you feeling now? Has the dizziness decreased or changed in any way? I'm here to continue assisting you and address any questions or concerns you may have.
+2025-01-13 15:29:04,984 - __main__ - INFO - Audio response saved as response_7ee422d7febf40ea88e590b051f59ca7.mp3
+2025-01-13 16:21:19,372 - __main__ - INFO - User submitted a query.
+2025-01-13 16:21:19,374 - __main__ - INFO - Processing input...
+2025-01-13 16:21:20,168 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-13 16:21:20,224 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 16:21:20,226 - __main__ - INFO - Processing text input...
+2025-01-13 16:21:21,185 - __main__ - INFO - Text processed successfully.
+2025-01-13 16:21:21,187 - __main__ - DEBUG - LLM reply: I'm here to help you feel better. A headache can be frustrating and uncomfortable. 
+
+To better understand what might be causing your headache, can you tell me more about it? For example:
+
+- Where exactly is the headache located? 
+- Is it a dull ache, sharp pain, or a throbbing sensation?
+- How long have you been experiencing the headache?
+- Have you had any specific activities or events around the time your headache started?
+- Have you experienced any other symptoms like nausea, dizziness, or fever?
+
+Also, are you experiencing any of the following common headache types:
+
+- Tension Headaches: often feel like a band or a tight squeeze around the forehead or back of the neck
+- Migraines: often severe, debilitating, and accompanied by sensitivity to light and noise
+- Cluster Headaches: typically one-sided, severe, and occur in clusters or groups
+
+Your details will help me narrow down the possible causes and provide more tailored advice on how to alleviate your discomfort.
+2025-01-13 16:21:29,693 - __main__ - INFO - Audio response saved as response_4a10fab644e247278107aab5ce10d46f.mp3
+2025-01-13 16:22:18,972 - __main__ - INFO - User submitted a query.
+2025-01-13 16:22:18,973 - __main__ - INFO - Processing input...
+2025-01-13 16:22:19,080 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-13 16:22:19,096 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 16:22:19,097 - __main__ - INFO - Processing text input...
+2025-01-13 16:22:20,166 - __main__ - INFO - Text processed successfully.
+2025-01-13 16:22:20,166 - __main__ - DEBUG - LLM reply: A fever can be uncomfortable and a sign that your body is trying to fight off an infection. It's essential to monitor your fever and take steps to manage your symptoms.
+
+To better understand the severity of your condition, can you tell me more about your fever? For example:
+
+- How high is your fever? Has it been above 102°F (39°C) or as low as 98.6°F (37°C)?
+- How long have you been feeling unwell and experiencing the fever?
+- Have you noticed any other symptoms, such as:
+    - Cough or sore throat
+    - Headache or body aches
+    - Fatigue or weakness
+    - Nausea or vomiting
+    - Diarrhea or stomach cramps
+    - Watery eyes or runny nose
+- Have you traveled recently or been in contact with anyone showing similar symptoms?
+
+Given your headache and fever, I want to consider the possibility of a few common conditions:
+
+- Viral Infections (Common Cold or Flu): fever, headache, and body aches
+- Sinus Infections or Ear Infections: fever, headache, and facial pain
+- Sore Throat with Strep Throat: fever, headache, and severe sore throat
+- Ear Infections: ear pain, fever, and headache
+
+It's crucial to take steps to manage your fever, drink plenty of fluids to stay hydrated, and rest to help your body recover. However, if your fever exceeds 103°F (39.4°C), lasts for more than three days, or is accompanied by severe symptoms, difficulty breathing, or chest pain, please seek medical attention as soon as possible.
+
+Can you tell me if you've taken any medication, such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin), to try to reduce your fever?
+2025-01-13 16:22:37,326 - __main__ - INFO - Audio response saved as response_567962f4abae4123ba85e15ecd3c0ab5.mp3
+2025-01-13 17:14:42,206 - __main__ - INFO - User submitted a query.
+2025-01-13 17:14:42,229 - __main__ - INFO - Processing input...
+2025-01-13 17:14:43,005 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-13 17:14:43,298 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 17:14:43,298 - __main__ - INFO - Processing text input...
+2025-01-13 17:14:44,261 - __main__ - INFO - Text processed successfully.
+2025-01-13 17:14:44,261 - __main__ - DEBUG - LLM reply: Hello! I'm Dr. HealthBuddy, your virtual healthcare assistant. It's nice to connect with you.
+
+I noticed you mentioned earlier that you're experiencing a headache and fever. How are you feeling now? Has your condition changed, or are you looking for advice on how to manage your symptoms?
+
+If you're not experiencing any specific symptoms or concerns, and just want to chat, that's perfectly fine too! I'm here to help answer any health-related questions you may have, provide guidance on healthy living, or simply offer a listening ear.
+
+Please feel free to update me on your condition, ask a question, or share any concerns you may have. I'm here to help.
+2025-01-13 17:14:49,861 - __main__ - INFO - Audio response saved as response_d97123b3090247f18ccea8e956f4c25a.mp3
+2025-01-13 17:15:19,073 - __main__ - INFO - User submitted a query.
+2025-01-13 17:15:19,075 - __main__ - INFO - Processing input...
+2025-01-13 17:15:19,152 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-13 17:15:19,152 - __main__ - INFO - Extracted medical entities: []
+2025-01-13 17:15:19,152 - __main__ - DEBUG - Encoding image...
+2025-01-13 17:15:19,181 - __main__ - DEBUG - Image encoding complete.
+2025-01-13 17:15:19,181 - __main__ - DEBUG - Image received, size: 79188 bytes
+2025-01-13 17:15:19,183 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-13 17:15:21,900 - __main__ - INFO - Image processed successfully.
+2025-01-13 17:15:21,900 - __main__ - DEBUG - LLM reply: This image appears to be a tan and white dog. It looks right side on with a white muzzle, and tan body with some dark spots. You can see some of its teeth as it looks to the left of the image. In the background, there appears to be a street or building of brick that is blurry. There are some lights that appear to be glowing in the back.
+2025-01-13 17:15:24,157 - __main__ - INFO - Audio response saved as response_b7893d56151c46658d5fd6336bd17ef0.mp3
+2025-01-15 11:09:17,355 - __main__ - ERROR - Failed to load NER model: [E050] Can't find model 'en_ner_bionlp13cg_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-01-15 11:10:34,403 - __main__ - ERROR - Failed to load NER model: [E050] Can't find model 'en_core_sci_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-01-15 12:44:22,534 - __main__ - INFO - User submitted a query.
+2025-01-15 12:44:22,534 - __main__ - INFO - Processing input...
+2025-01-15 12:44:23,043 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-15 12:44:23,086 - __main__ - INFO - Extracted medical entities: []
+2025-01-15 12:44:23,086 - __main__ - INFO - Processing text input...
+2025-01-15 12:44:24,562 - __main__ - INFO - Text processed successfully.
+2025-01-15 12:44:24,562 - __main__ - DEBUG - LLM reply: Hello there! Welcome to our health and wellness chat. I'm Dr. HealthBuddy, your friendly and knowledgeable virtual doctor. It's great to have you here. How can I assist you today? Do you have a specific health concern, question, or topic you'd like to discuss? Please feel free to share, and I'll do my best to provide you with accurate, helpful, and compassionate guidance.
+2025-01-15 12:44:28,373 - __main__ - INFO - Audio response saved as response_44b0abf368244afd8206aaa710d05d4c.mp3
+2025-01-15 12:45:46,256 - __main__ - INFO - User submitted a query.
+2025-01-15 12:45:46,256 - __main__ - INFO - Processing input...
+2025-01-15 12:45:46,399 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-15 12:45:46,419 - __main__ - INFO - Extracted medical entities: []
+2025-01-15 12:45:46,419 - __main__ - INFO - Processing text input...
+2025-01-15 12:45:48,310 - __main__ - INFO - Text processed successfully.
+2025-01-15 12:45:48,310 - __main__ - DEBUG - LLM reply: I'm so sorry to hear that you're not feeling well. Having a fever and headache can be really uncomfortable.
+
+First, let's take a closer look at the symptoms you're experiencing. A fever and headache can have many possible causes, ranging from mild to more serious conditions. 
+
+To better understand the situation, I have a few questions for you:
+
+1. How high is your fever? Is it above 102°F (39°C)?
+2. How long have you been experiencing the headache and fever?
+3. Are you experiencing any other symptoms, such as body aches, fatigue, or nausea?
+4. Have you recently traveled, been exposed to anyone who's sick, or have you been in contact with any allergens?
+5. Have you taken any medication or done anything to try to manage your symptoms so far?
+
+Please share the answers to these questions, and I'll do my best to provide a more tailored response. Remember, it's always best to consult a healthcare professional in person for a proper diagnosis and treatment.
+
+Also, keep in mind that if you experience any of the following, you should seek medical attention right away:
+
+* Difficulty breathing
+* Chest pain or pressure
+* Confusion or disorientation
+* Severe headache or stiff neck
+* Fever above 103°F (39.4°C)
+* Worsening symptoms over time
+
+If you're unsure about what's causing your symptoms or if you need further guidance, don't hesitate to ask. I'm here to help!
+2025-01-15 12:46:11,557 - __main__ - INFO - Audio response saved as response_46c2a7703a5046adbec76bab4fbb4ae7.mp3
+2025-01-18 18:47:49,231 - __main__ - INFO - User submitted a query.
+2025-01-18 18:47:49,237 - __main__ - INFO - Processing input...
+2025-01-18 18:47:49,996 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-18 18:47:50,073 - __main__ - INFO - Extracted medical entities: []
+2025-01-18 18:47:50,073 - __main__ - INFO - Processing text input...
+2025-01-18 18:47:50,786 - __main__ - INFO - Text processed successfully.
+2025-01-18 18:47:50,789 - __main__ - DEBUG - LLM reply: Hello there! Welcome to our virtual health clinic. I'm Dr. HealthBuddy, here to help and support you with any health-related questions or concerns you may have. It's great to have you on board!
+
+Before we begin, please know that I'm not a substitute for a face-to-face visit with a doctor. If you have a serious medical issue or concern, please seek immediate care from a qualified healthcare professional. However, for general health guidance, symptom management, or simply seeking advice on maintaining a healthy lifestyle, I'm here to help!
+
+Is there something specific on your mind, or would you like to discuss general health tips? I'm all ears!
+2025-01-18 18:47:57,335 - __main__ - INFO - Audio response saved as response_1f9c02ba258c42c3b66e7c223f6ee453.mp3
+2025-01-18 18:48:24,934 - __main__ - INFO - User submitted a query.
+2025-01-18 18:48:24,937 - __main__ - INFO - Processing input...
+2025-01-18 18:48:25,040 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-18 18:48:25,065 - __main__ - INFO - Extracted medical entities: []
+2025-01-18 18:48:25,065 - __main__ - INFO - Processing text input...
+2025-01-18 18:48:25,922 - __main__ - INFO - Text processed successfully.
+2025-01-18 18:48:25,922 - __main__ - DEBUG - LLM reply: Having a fever can be uncomfortable and sometimes concerning. Don't worry, I'm here to help!
+
+Can you tell me more about your fever? 
+
+- How long have you had the fever? Is it a new development or part of a recurring pattern?
+- Is the fever mild, moderate, or severe? (mild < 102°F, moderate 102°F-104°F, severe > 104°F)
+- Are you experiencing any other symptoms along with the fever, such as chills, headaches, body aches, or fatigue?
+- Have you taken any medication to help manage the fever?
+- Have you recently traveled, been around anyone sick, or been exposed to anything unusual?
+
+This information will help me better understand your situation and provide more tailored guidance.
+
+Also, please keep in mind that if you experience any of the following, you should seek medical attention directly:
+
+- Fever over 103°F (39.4°C) in adults or 101.5°F (38.6°C) in children under 3 years
+- Fever lasting more than 3 to 4 days
+- Difficulty breathing, chest pain, or severe headache
+- Confusion, disorientation, or sudden severe symptoms
+
+Let's work together to figure out what's going on and get you the best advice possible!
+2025-01-18 18:48:41,078 - __main__ - INFO - Audio response saved as response_e438f3af01344404be92c09e8b4e7fce.mp3
+2025-01-18 18:50:57,084 - __main__ - INFO - User submitted a query.
+2025-01-18 18:50:57,084 - __main__ - INFO - Processing input...
+2025-01-18 18:50:57,257 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-18 18:50:57,274 - __main__ - INFO - Extracted medical entities: []
+2025-01-18 18:50:57,274 - __main__ - INFO - Processing text input...
+2025-01-18 18:50:58,579 - __main__ - INFO - Text processed successfully.
+2025-01-18 18:50:58,579 - __main__ - DEBUG - LLM reply: Based on the symptoms you've shared, I'll provide some possible explanations. However, please keep in mind that only a qualified healthcare professional can provide a definitive diagnosis.
+
+Given your symptoms of fever, cough, and cold-like symptoms, here are some potential causes:
+
+1. **Viral Upper Respiratory Tract Infection (URTI)**: This is one of the most common causes of fever, cough, and cold symptoms. There are many types of viruses that can lead to URTI, including coronaviruses (like COVID-19), rhinoviruses, and influenza viruses.
+2. **Common Cold**: The common cold is also a possibility, but it's often less severe than URTI. Temperature elevations are usually mild, and symptoms resolve on their own within 1-2 weeks.
+3. **Flu (Influenza)**: Influenza is another viral infection that shares many symptoms with URTI, including fever, cough, and body aches. If you're experiencing severe symptoms, such as high fever (over 103°F/39.4°C), severe headache, or painful body aches, influenza might be a concern.
+4. **Bronchitis**: Bronchitis is an inflammation of the bronchial tubes, often caused by viruses or bacteria. This condition often leads to a persistent cough and may be accompanied by fever and cold symptoms.
+5. ** sinusitis**: Sinusitis is an infection or inflammation of the sinuses, which can cause symptoms like fever, sore throat, and facial pain. 
+
+Consider taking some general steps to help alleviate your symptoms:
+
+- Stay hydrated with plenty of fluids (water, clear broths, or electrolyte-rich beverages).
+- Use a humidifier or take steam inhalations to ease congestion.
+- Use a pain reliever or cough medication to manage symptoms, as directed on the label.
+- Practice good hygiene (wash hands frequently, avoid close contact with others, and clean surfaces regularly).
+
+However, I must emphasize that this is a general guidance and not a definitive diagnosis. If you experience:
+
+- Difficulty breathing
+- Chest pain or tightness
+- High fever that lasts more than 3 to 4 days
+- Dehydration or dizziness
+- Confusion or disorientation
+- Sudden severe symptoms
+
+Please seek immediate medical attention from a healthcare professional for proper evaluation and treatment.
+
+Let's keep an eye on your symptoms and reassess as needed. Which of these options resonates with you the most, or would you like to provide more details about your symptoms?
+2025-01-18 18:51:35,125 - __main__ - INFO - Audio response saved as response_c74d52feb9f94ea5b9a30c552d1db4bf.mp3
+2025-01-18 18:55:55,162 - __main__ - INFO - User submitted a query.
+2025-01-18 18:55:55,169 - __main__ - INFO - Processing input...
+2025-01-18 18:55:55,353 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-18 18:55:55,374 - __main__ - INFO - Extracted medical entities: []
+2025-01-18 18:55:55,374 - __main__ - INFO - Processing text input...
+2025-01-18 18:55:56,008 - __main__ - INFO - Text processed successfully.
+2025-01-18 18:55:56,010 - __main__ - DEBUG - LLM reply: Hello! Welcome to my virtual clinic. I'm Dr. HealthBuddy, your friendly and trusted guide to all things health-related. I'm here to help you with any questions, concerns, or issues you may have. 
+
+Is there something specific on your mind that you'd like to talk about, or would you like some general information on a specific topic? Feel free to share, and I'll do my best to provide you with helpful guidance and support.
+2025-01-18 18:56:00,268 - __main__ - INFO - Audio response saved as response_0764d18171a845f9b563c0214153cd55.mp3
+2025-01-18 18:56:29,031 - __main__ - INFO - User submitted a query.
+2025-01-18 18:56:29,031 - __main__ - INFO - Processing input...
+2025-01-18 18:56:29,279 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-18 18:56:29,328 - __main__ - INFO - Extracted medical entities: []
+2025-01-18 18:56:29,328 - __main__ - INFO - Processing text input...
+2025-01-18 18:56:30,130 - __main__ - INFO - Text processed successfully.
+2025-01-18 18:56:30,135 - __main__ - DEBUG - LLM reply: Sorry to hear that you're not feeling well. Fever, cough, and cold symptoms can be a sign of several conditions, but I'll guide you through some common possibilities.
+
+Based on your symptoms, here are a few potential causes:
+
+1. **Common Cold**: A viral infection that affects the upper respiratory tract, causing symptoms like a runny nose, congestion, cough, and fever.
+2. **Influenza (Flu)**: A viral infection that affects the lungs and airways, causing fever, cough, sore throat, and body aches.
+3. **Bronchitis**: An inflammation of the airways, which can cause cough, chest tightness, and difficulty breathing.
+4. **Pneumonia**: An infection that inflames the air sacs in the lungs, causing symptoms like cough, fever, chest pain, and difficulty breathing.
+
+It's essential to note that these conditions have different severity levels and require different treatment approaches.
+
+To help me narrow down the possibilities, can you tell me a few more details?
+
+* How long have you been experiencing these symptoms?
+* What is your temperature (if you've taken it)?
+* Do you have a sore throat or chest pain?
+* Have you recently traveled or been exposed to anyone who's been sick?
+* Do you have a compromised immune system or underlying health conditions?
+
+This will help me provide more tailored guidance and advice.
+2025-01-18 18:56:44,511 - __main__ - INFO - Audio response saved as response_cf9216230cbe4acfb28be73711918b94.mp3
+2025-01-18 19:12:54,598 - __main__ - INFO - User submitted a query.
+2025-01-18 19:12:54,598 - __main__ - INFO - Processing input...
+2025-01-18 19:12:55,345 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-18 19:12:55,347 - __main__ - INFO - Extracted medical entities: ['fever']
+2025-01-18 19:12:55,347 - __main__ - INFO - Processing text input...
+2025-01-18 19:12:56,348 - __main__ - INFO - Text processed successfully.
+2025-01-18 19:12:56,348 - __main__ - DEBUG - LLM reply: Sorry to hear that you're experiencing fever. A fever can be a sign of an underlying infection, inflammation, or illness. To better understand the cause, I need to know more. Please provide me with some additional information:
+
+1. How long have you had the fever?
+2. What is the temperature reading on your thermometer?
+3. Are you experiencing any other symptoms such as headaches, body aches, fatigue, or cough?
+4. Have you recently traveled, been exposed to anyone sick, or engaged in any activities that may have exposed you to germs?
+5. Have you had any recent illnesses, such as a cold or flu?
+
+In the meantime, here are some general precautions you can take:
+
+1. Stay hydrated by drinking plenty of fluids, such as water, clear broths, or electrolyte-rich beverages like sports drinks.
+2. Take over-the-counter medications like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) to help reduce your fever and alleviate discomfort.
+3. Dress comfortably in light, breathable clothing and keep your environment cool and comfortable.
+
+Keep in mind that while these measures can help alleviate symptoms, they do not treat the underlying cause of your fever. I recommend seeking medical attention if:
+
+* Your fever lasts for more than 3-4 days
+* You experience severe symptoms, such as difficulty breathing, chest pain, or severe headaches
+* Your temperature exceeds 103°F (39.4°C)
+* You have a weakened immune system or are at risk for developing a more severe illness, such as pneumonia
+
+Once I have more information, I can provide more specific guidance to help you manage your symptoms and determine the best course of action.
+
+How can I assist you further?
+2025-01-18 19:13:17,923 - __main__ - INFO - Audio response saved as response_266542ebe54b42fe9d7b6a3951e80c98.mp3
+2025-01-24 17:24:40,201 - __main__ - INFO - User submitted a query.
+2025-01-24 17:24:40,204 - __main__ - INFO - Processing input...
+2025-01-24 17:24:40,664 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-24 17:24:40,665 - __main__ - INFO - Extracted medical entities: []
+2025-01-24 17:24:40,667 - __main__ - INFO - Processing text input...
+2025-01-24 17:24:42,221 - __main__ - ERROR - Error in customLLMBot function: Error code: 400 - {'error': {'message': 'Organization has been restricted. Please reach out to support if you believe this was in error.', 'type': 'invalid_request_error', 'code': 'organization_restricted'}}
+2025-01-24 17:29:28,676 - __main__ - INFO - User submitted a query.
+2025-01-24 17:29:28,686 - __main__ - INFO - Processing input...
+2025-01-24 17:29:29,143 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-24 17:29:29,143 - __main__ - INFO - Extracted medical entities: []
+2025-01-24 17:29:29,143 - __main__ - INFO - Processing text input...
+2025-01-24 17:29:29,699 - __main__ - ERROR - Error in customLLMBot function: Error code: 400 - {'error': {'message': 'Organization has been restricted. Please reach out to support if you believe this was in error.', 'type': 'invalid_request_error', 'code': 'organization_restricted'}}
+2025-01-24 17:49:05,549 - __main__ - INFO - User submitted a query.
+2025-01-24 17:49:05,555 - __main__ - INFO - Processing input...
+2025-01-24 17:49:06,292 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-24 17:49:06,292 - __main__ - INFO - Extracted medical entities: []
+2025-01-24 17:49:06,292 - __main__ - INFO - Processing text input...
+2025-01-24 17:49:06,831 - __main__ - ERROR - Error in customLLMBot function: Error code: 400 - {'error': {'message': 'Organization has been restricted. Please reach out to support if you believe this was in error.', 'type': 'invalid_request_error', 'code': 'organization_restricted'}}
+2025-01-25 08:56:09,093 - __main__ - INFO - User submitted a query.
+2025-01-25 08:56:09,097 - __main__ - INFO - Processing input...
+2025-01-25 08:56:09,916 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-25 08:56:09,918 - __main__ - INFO - Extracted medical entities: []
+2025-01-25 08:56:09,920 - __main__ - INFO - Processing text input...
+2025-01-25 08:56:10,563 - __main__ - INFO - Text processed successfully.
+2025-01-25 08:56:10,563 - __main__ - DEBUG - LLM reply: Hello! I'm Dr. HealthBuddy, your friendly virtual doctor chatbot. It's wonderful to meet you here. Is there something specific that's been on your mind, or perhaps some health concerns you'd like to discuss? I'm all ears to help and provide information to the best of my abilities. Please keep in mind that I'm not a substitute for professional medical advice, so please don't hesitate to consult a licensed healthcare provider for any severe or persistent health issues. How can I assist you today?
+2025-01-25 08:56:14,551 - __main__ - INFO - Audio response saved as response_0188d182d1e046fbb8c69b6dc9c1ef2f.mp3
+2025-01-25 08:56:39,068 - __main__ - INFO - User submitted a query.
+2025-01-25 08:56:39,068 - __main__ - INFO - Processing input...
+2025-01-25 08:56:39,150 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-25 08:56:39,150 - __main__ - INFO - Extracted medical entities: ['headache', 'nausea']
+2025-01-25 08:56:39,150 - __main__ - INFO - Processing text input...
+2025-01-25 08:56:39,885 - __main__ - INFO - Text processed successfully.
+2025-01-25 08:56:39,888 - __main__ - DEBUG - LLM reply: Sorry to hear that you're experiencing a headache and nausea. These symptoms can be quite uncomfortable. 
+
+Headache and nausea can be related to various conditions, including viral infections, migraines, sinus issues, or even food poisoning. Let's explore some possible causes that might be relevant to your symptoms.
+
+Some things you can try to alleviate your symptoms include staying hydrated by drinking plenty of water, taking over-the-counter pain relievers like acetaminophen or ibuprofen, and avoiding heavy meals or fatty foods for now.
+
+If your symptoms persist or worsen, it's crucial to consider visiting a healthcare provider for a proper evaluation and diagnosis. They can help determine the underlying cause and prescribe appropriate treatment.
+
+Can you tell me a little more about your symptoms, such as:
+
+- How long have you been experiencing them?
+- Do you have a fever, congestion, or sensitivity to light/sound?
+- Have you recently traveled, been around someone sick, or consumed anything that might have caused food poisoning?
+- Have you been experiencing any other symptoms, such as vomiting or muscle aches?
+
+This information will help me provide you with more tailored guidance.
+2025-01-25 08:56:48,285 - __main__ - INFO - Audio response saved as response_b17e796f13a642899caca12f12784c8e.mp3
+2025-01-25 09:57:37,230 - __main__ - INFO - User submitted a query.
+2025-01-25 09:57:37,234 - __main__ - INFO - Processing input...
+2025-01-25 09:57:39,187 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-25 09:57:39,188 - __main__ - INFO - Extracted medical entities: []
+2025-01-25 09:57:39,188 - __main__ - INFO - Processing text input...
+2025-01-25 09:57:39,890 - __main__ - INFO - Text processed successfully.
+2025-01-25 09:57:39,891 - __main__ - DEBUG - LLM reply: Hello! Welcome to my virtual doctor's office. I'm Dr. HealthBuddy, your friendly and helpful chatbot. I'm here to assist you with any health-related concerns, provide information, and offer guidance based on the latest data. What seems to be on your mind? Do you have a specific symptom or question you'd like to discuss?
+2025-01-25 09:57:42,764 - __main__ - INFO - Audio response saved as response_4250dbf208044abca0d75868dbf86a89.mp3
+2025-01-25 09:58:18,080 - __main__ - INFO - User submitted a query.
+2025-01-25 09:58:18,084 - __main__ - INFO - Processing input...
+2025-01-25 09:58:18,289 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-25 09:58:18,289 - __main__ - INFO - Extracted medical entities: []
+2025-01-25 09:58:18,290 - __main__ - INFO - Processing text input...
+2025-01-25 09:58:19,115 - __main__ - INFO - Text processed successfully.
+2025-01-25 09:58:19,116 - __main__ - DEBUG - LLM reply: Sorry to hear that you're experiencing a rash on your face. Facial rashes can be uncomfortable and, at times, concerning.
+
+According to the data, facial rashes can be caused by various factors such as:
+
+1. Allergies: Contact or atopic dermatitis, allergies to soap, shampoo, or other products can cause red, itchy patches on the face.
+2. Eczema: A common skin condition characterized by dry, inflamed skin, which can develop into rashes on the face.
+3. Skin infections: Fungal, bacterial, or viral infections can lead to facial rashes, especially around the mouth, nose, or jawline.
+4. Sensitivity: Sensitive skin can react to temperature, humidity, or other environmental changes, causing facial rashes.
+5. Hormonal changes: Fluctuations in hormones during menstruation, pregnancy, or menopause can cause skin reactions, including facial rashes.
+
+To manage your symptoms, you can try:
+
+1. Keeping the affected area clean and moisturized
+2. Applying cool compresses to reduce itching and swelling
+3. Avoiding harsh skin products or makeup
+4. Wearing gentle, comfortable clothing
+
+However, if your rash is severe, spreads, or worsens, I strongly recommend consulting a dermatologist for personalized care. They can help determine the underlying cause and provide a proper treatment plan.
+
+Please let me know if you have any other questions or if there's anything else I can help with.
+2025-01-25 09:58:35,325 - __main__ - INFO - Audio response saved as response_efef5aac1ea948bbb30bfac3ade7ebb4.mp3
+2025-01-25 09:59:04,427 - __main__ - INFO - User submitted a query.
+2025-01-25 09:59:04,428 - __main__ - INFO - Processing input...
+2025-01-25 09:59:04,479 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-25 09:59:04,479 - __main__ - INFO - Extracted medical entities: []
+2025-01-25 09:59:04,480 - __main__ - DEBUG - Encoding image...
+2025-01-25 09:59:04,501 - __main__ - DEBUG - Image encoding complete.
+2025-01-25 09:59:04,509 - __main__ - DEBUG - Image received, size: 71084 bytes
+2025-01-25 09:59:04,509 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-25 09:59:05,596 - __main__ - INFO - Image processed successfully.
+2025-01-25 09:59:05,597 - __main__ - DEBUG - LLM reply: The given image shows a close-up of a woman's visible left half, including her: 
+
+* forehead
+* the side and underneath half of her eyes
+* cheeks
+* lips
+* jawline
+* neck
+
+Her view is profile, and her hair is pulled back into a low ponytail. She appears to have acne on her left cheek. She is pale with a light pink blush on her lips and cheeks, and her eyebrows are brown and neatly shaped. She wears long, black eyelashes and mascara. The woman is likely modeling for the photoshoot, based on her camera-ready appearance and facial expression, which is neutral.
+
+This close-up view presents subtle, soft characteristics and invites the viewer to enlarge the image, making it ideal for advertisement or cosmetic analysis. The overall effect is one of simplicity and clarity, creating a sense of intimacy and connection with the viewer.
+2025-01-25 09:59:12,910 - __main__ - INFO - Audio response saved as response_26f7104ec9ce49a88583ad7c9ba41372.mp3
+2025-01-26 11:18:40,726 - __main__ - ERROR - Error in image prediction: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+2025-01-26 11:22:12,455 - __main__ - ERROR - Error in image prediction: OpenCV(4.11.0) :-1: error: (-5:Bad argument) in function 'cvtColor'
+> Overload resolution failed:
+>  - src is not a numpy array, neither a scalar
+>  - Expected Ptr<cv::UMat> for argument 'src'
+
+2025-01-26 14:17:21,830 - __main__ - INFO - User submitted a query.
+2025-01-26 14:29:24,762 - __main__ - INFO - User submitted a query.
+2025-01-26 14:29:24,769 - __main__ - INFO - Processing input...
+2025-01-26 14:29:25,405 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-26 14:29:25,405 - __main__ - INFO - Extracted medical entities: []
+2025-01-26 14:29:25,409 - __main__ - INFO - Processing text input...
+2025-01-26 14:29:26,255 - __main__ - INFO - Text processed successfully.
+2025-01-26 14:29:26,255 - __main__ - DEBUG - LLM reply: Hello! It's great to make your acquaintance. I'm Dr. HealthBuddy, your virtual doctor and healthcare companion. Is there anything that's been on your mind lately, or perhaps you're looking for general health advice? I'm here to listen and help in any way I can. What's on your mind today?
+2025-01-26 14:29:30,540 - __main__ - INFO - Audio response saved as response_9448b9616c6849cea3b5cd11948380ea.mp3
+2025-01-26 14:29:57,935 - __main__ - INFO - User submitted a query.
+2025-01-26 14:29:57,935 - __main__ - INFO - Processing input...
+2025-01-26 14:29:58,071 - __main__ - INFO - Sentiment detected: NEGATIVE
+2025-01-26 14:29:58,073 - __main__ - INFO - Extracted medical entities: []
+2025-01-26 14:29:58,073 - __main__ - DEBUG - Encoding image...
+2025-01-26 14:29:58,104 - __main__ - DEBUG - Image encoding complete.
+2025-01-26 14:29:58,106 - __main__ - DEBUG - Image received, size: 89136 bytes
+2025-01-26 14:29:58,108 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-26 14:30:00,144 - __main__ - INFO - Image processed successfully.
+2025-01-26 14:30:00,146 - __main__ - DEBUG - LLM reply: The image appears to show a person's face with a magnifying glass over their skin, which looks like it could be acne. A magnifying glass is a hand-held optical instrument that is used to examine objects or small details at close range, such as in the case of acne by examining the face.
+2025-01-26 14:30:01,922 - __main__ - INFO - Audio response saved as response_62802bb5aaa34ab8a956d53aef540d47.mp3
+2025-01-27 10:02:40,936 - __main__ - INFO - User submitted a query.
+2025-01-27 10:02:40,938 - __main__ - INFO - Processing input...
+2025-01-27 10:02:41,417 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-27 10:02:41,418 - __main__ - INFO - Extracted medical entities: []
+2025-01-27 10:02:41,418 - __main__ - INFO - Processing text input...
+2025-01-27 10:02:42,151 - __main__ - INFO - Text processed successfully.
+2025-01-27 10:02:42,152 - __main__ - DEBUG - LLM reply: Hello! It seems like you might have a skin-related concern. I'm here to listen and help if I can. Please feel free to share what's been going on with your skin, and I'll do my best to provide you with some guidance.
+2025-01-27 10:02:43,611 - __main__ - INFO - Audio response saved as response_39a996c933ea4855bf03adf87fc64d88.mp3
+2025-01-27 10:12:56,820 - __main__ - DEBUG - Image processed successfully.
+2025-01-27 10:13:06,083 - __main__ - DEBUG - Image processed successfully.
+2025-01-27 10:13:17,859 - __main__ - DEBUG - Image processed successfully.
+2025-01-27 10:13:27,970 - __main__ - DEBUG - Image processed successfully.
+2025-01-27 10:19:36,195 - __main__ - INFO - User submitted a query.
+2025-01-27 10:26:56,702 - __main__ - INFO - User submitted a query.
+2025-01-27 10:26:56,704 - __main__ - INFO - Processing input...
+2025-01-27 10:26:57,136 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-27 10:26:57,138 - __main__ - INFO - Extracted medical entities: []
+2025-01-27 10:26:57,138 - __main__ - INFO - Processing text input...
+2025-01-27 10:26:57,662 - __main__ - INFO - Text processed successfully.
+2025-01-27 10:26:57,662 - __main__ - DEBUG - LLM reply: Hello! I'm Dr. HealthBuddy, here to help with any health-related questions or concerns you may have. It's completely confidential and anonymous, so feel free to share as much or as little as you'd like. How can I assist you today? Do you have a specific health issue, or would you like some general advice on healthy living?
+2025-01-27 10:27:00,056 - __main__ - INFO - Audio response saved as response_622e6c29f37f4e77b33c51b4ec186cff.mp3
+2025-01-27 14:13:07,909 - __main__ - INFO - User submitted a query.
+2025-01-27 14:13:07,912 - __main__ - INFO - Processing input...
+2025-01-27 14:13:08,522 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-27 14:13:08,522 - __main__ - INFO - Extracted medical entities: []
+2025-01-27 14:13:08,527 - __main__ - INFO - Processing text input...
+2025-01-27 14:13:09,921 - __main__ - INFO - Text processed successfully.
+2025-01-27 14:13:09,921 - __main__ - DEBUG - LLM reply: Hello! Welcome to my virtual office. My name is Dr. HealthBuddy, and I'm here to help you with any health-related questions or concerns you may have. How are you feeling today? Is there something specific on your mind that you'd like to talk about or seek advice on?
+2025-01-27 14:13:21,633 - __main__ - INFO - Audio response saved as response_5ef1cc6aa7a6464a81fb8b8c3d694e9c.mp3
+2025-01-27 14:13:29,936 - __main__ - INFO - User submitted a query.
+2025-01-27 14:13:29,937 - __main__ - INFO - Processing input...
+2025-01-27 14:13:30,031 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-27 14:13:30,033 - __main__ - INFO - Extracted medical entities: []
+2025-01-27 14:13:30,033 - __main__ - DEBUG - Encoding image...
+2025-01-27 14:13:30,058 - __main__ - DEBUG - Image encoding complete.
+2025-01-27 14:13:30,060 - __main__ - DEBUG - Image received, size: 94824 bytes
+2025-01-27 14:13:30,062 - __main__ - INFO - Sending image to Groq API for processing...
+2025-01-27 14:13:32,408 - __main__ - INFO - Image processed successfully.
+2025-01-27 14:13:32,408 - __main__ - DEBUG - LLM reply: The image contains text referencing a rash. Visible signs for this rash include redness, scaling, and a raised swollen appearance. These are common symptoms of allergic reactions or irritant dermatitis, and potential causes could include irritation from hairs or some chemicals. This rash may also be caused by eczema, a condition characterized by skin dryness and itching.
+2025-01-27 14:13:35,737 - __main__ - INFO - Audio response saved as response_1e994bef63de4229899f30ed244562eb.mp3
+2025-01-27 15:18:06,035 - __main__ - INFO - User submitted a query.
+2025-01-27 15:18:06,039 - __main__ - INFO - Processing input...
+2025-01-27 15:18:06,677 - __main__ - INFO - Sentiment detected: POSITIVE
+2025-01-27 15:18:06,679 - __main__ - INFO - Extracted medical entities: []
+2025-01-27 15:18:06,679 - __main__ - INFO - Processing text input...
+2025-01-27 15:18:07,215 - __main__ - INFO - Text processed successfully.
+2025-01-27 15:18:07,217 - __main__ - DEBUG - LLM reply: Hello! It's nice to meet you. How can I assist you today? Do you have a specific health concern or question you'd like to discuss, or are you just looking for some general health information?
+2025-01-27 15:18:08,826 - __main__ - INFO - Audio response saved as response_1e2a932826824c688b18fa72959cdb96.mp3
