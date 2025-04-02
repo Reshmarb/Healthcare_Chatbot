@@ -102,7 +102,7 @@ DermaCare Chatbot Doctor is an AI-powered healthcare chatbot designed to assist 
 DermaCare Chatbot Doctor is a powerful AI-driven tool for preliminary skin disease diagnosis. By integrating state-of-the-art NLP, image processing, and predictive modeling techniques, it provides users with a fast, accessible, and user-friendly healthcare solution.
 
 ---
-**Author:** Your Name  
-**Contact:** your-email@example.com  
+**Author:** RESHMA R B 
+**Contact:** reshmarb8547@gmail.com  
 **License:** MIT
 
